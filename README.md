@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **muqoddam2711@gmail.com**
 - 🎓 I am Student Software Engineering in **Banyuwangi State Polytechnic**
-- 🌱 Boleh sii abang-abang bagi project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
